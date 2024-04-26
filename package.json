@@ -1,0 +1,15 @@
+{
+  "name": "cypress-tadashboard",
+  "version": "1.0.0",
+  "description": "Testing framework for TADashboard site",
+  "devDependencies": {
+    "cypress": "^13.8.1",
+    "typescript": "^5.4.5",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  }
+}

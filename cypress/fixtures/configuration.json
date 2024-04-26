@@ -1,0 +1,8 @@
+{
+    "repository": "SampleRepository",
+    "admin": {
+        "username": "administrator",
+        "password": ""
+    },
+    "baseUrl": "http://localhost:60000"
+}
