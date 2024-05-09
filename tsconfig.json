@@ -10,7 +10,8 @@
     "types": [
       "node",
       "cypress", 
-      "cypress-xpath"
+      "cypress-xpath",
+      "cypress-real-events"
     ],
     "strict": true,
     "skipLibCheck": true,
